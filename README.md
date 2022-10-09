@@ -5,3 +5,5 @@ This algorithm has been built during the "Deep Learning" Boot Camp which was org
 
 You can find the UrbanSounds8K dataset here:
 https://urbansounddataset.weebly.com/
+
+The codes are written within the Jupyter Notebook. To have them running successfully, the UrbanSound8K folder should be at the same location with the ipynb files.
