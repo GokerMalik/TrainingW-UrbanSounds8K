@@ -9,3 +9,5 @@ https://urbansounddataset.weebly.com/
 The codes are written within the Jupyter Notebook.
 
 Due to the size of the data, I avoided for loops in the pre-processing phase and adopted an approach of storing the data in a hard-drive at each step. To have the codes running successfully, the UrbanSound8K folder should be at the same location with the ipynb files.
+
+Files are post-edited for translation purposes.
